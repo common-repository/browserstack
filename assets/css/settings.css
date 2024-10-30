@@ -1,0 +1,60 @@
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+#wpwrap {
+  background-color: #fff;
+  color: #333333;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: normal;
+}
+
+.browserstack-wrap {
+  margin-left: 40px;
+}
+
+.bs-logo {
+  margin-top: 63px;
+}
+
+.browserstack-title {
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.1428571428571428;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 42px 0 21px 0;
+}
+
+.browserstack-wrap .sub-text {
+  font-size: 16px;
+  margin-bottom: 22px;
+}
+
+.browserstack-wrap .one-click-checkbox {
+  line-height: 1.3125;
+}
+
+.browserstack-wrap .one-click-checkbox th {
+  width : 330px;
+  font-size: 16px;
+  font-weight: normal;;
+  line-height: 1.3125;
+  color: #333333;
+}
+
+.browserstack-wrap .access-key th {
+  font-size: 16px;
+}
+
+.browserstack-wrap .access-key td, .browserstack-wrap .access-key th {
+  padding-top: 22px;
+}
+
+.browserstack-wrap .submit {
+  margin-top: 22px;
+}
+
+#toplevel_page_browserstack_settings .dashicons-before img {
+  opacity: 1;
+}

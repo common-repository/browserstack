@@ -1,0 +1,16 @@
+#toplevel_page_browserstack_settings .dashicons-before img {
+  opacity: 1;
+}
+
+.browserstack-integration-action, .browserstack-icon {
+  vertical-align: middle;
+}
+
+.browserstack-icon {
+  padding-right: 5px;
+}
+
+#wp-admin-bar-top-menu .browserstack-icon {
+  padding-right: 5px;
+  margin-top: -3px;
+}
